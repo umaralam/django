@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataSource name="@localhost">
+<dataSource name="storefront@localhost">
   <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.52">
     <root id="1">
       <DefaultCasing>lower/lower</DefaultCasing>
@@ -1008,7 +1008,8 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="291" parent="1" name="storefront">
-      <LastIntrospectionLocalTimestamp>2024-07-23.19:14:27</LastIntrospectionLocalTimestamp>
+      <Current>1</Current>
+      <LastIntrospectionLocalTimestamp>2024-07-30.16:48:50</LastIntrospectionLocalTimestamp>
       <CollationName>utf8mb4_0900_ai_ci</CollationName>
     </schema>
     <schema id="292" parent="1" name="sys">
@@ -1200,7 +1201,7 @@ permission_id</ColNames>
       <UnderlyingIndexName>auth_group_permissions_group_id_permission_id_0cd325b0_uniq</UnderlyingIndexName>
     </key>
     <column id="335" parent="299" name="id">
-      <AutoIncrement>69</AutoIncrement>
+      <AutoIncrement>68</AutoIncrement>
       <DasType>int|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -1487,7 +1488,7 @@ permission_id</ColNames>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="394" parent="304" name="id">
-      <AutoIncrement>18</AutoIncrement>
+      <AutoIncrement>17</AutoIncrement>
       <DasType>int|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -1701,7 +1702,7 @@ model</ColNames>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="437" parent="310" name="id">
-      <AutoIncrement>1</AutoIncrement>
+      <AutoIncrement>10</AutoIncrement>
       <DasType>bigint|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -1735,7 +1736,7 @@ model</ColNames>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="444" parent="311" name="id">
-      <AutoIncrement>1</AutoIncrement>
+      <AutoIncrement>1000</AutoIncrement>
       <DasType>bigint|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -1793,7 +1794,7 @@ model</ColNames>
       <Position>1</Position>
     </column>
     <column id="456" parent="312" name="id">
-      <AutoIncrement>1</AutoIncrement>
+      <AutoIncrement>1000</AutoIncrement>
       <DasType>bigint|0s</DasType>
       <NotNull>1</NotNull>
       <Position>2</Position>
@@ -1832,7 +1833,7 @@ model</ColNames>
       <Predicate>`quantity` &gt;= 0</Predicate>
     </check>
     <column id="464" parent="313" name="id">
-      <AutoIncrement>1</AutoIncrement>
+      <AutoIncrement>1000</AutoIncrement>
       <DasType>bigint|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
@@ -1886,7 +1887,7 @@ model</ColNames>
       <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
     </key>
     <column id="475" parent="314" name="id">
-      <AutoIncrement>1</AutoIncrement>
+      <AutoIncrement>1001</AutoIncrement>
       <DasType>bigint|0s</DasType>
       <NotNull>1</NotNull>
       <Position>1</Position>
