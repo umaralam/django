@@ -21,6 +21,9 @@ from debug_toolbar.toolbar import debug_toolbar_urls
 import playground
 import playground.urls
 
+admin.site.site_header = 'Storefront Admin'
+admin.site.index_title = 'Admin'
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('playground/', include(playground.urls))
