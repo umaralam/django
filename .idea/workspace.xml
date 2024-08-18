@@ -6,15 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f0967932-90c1-4b07-83a7-cffe660a74af" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/acd89004-021b-41c5-95f1-f5d010f75316.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/acd89004-021b-41c5-95f1-f5d010f75316.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/acd89004-021b-41c5-95f1-f5d010f75316/storage_v2/_src_/schema/storefront2.SvNTsw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/acd89004-021b-41c5-95f1-f5d010f75316/storage_v2/_src_/schema/storefront2.SvNTsw.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/playground/templates/hello.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/playground/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/store/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storefront/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/storefront/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storefront/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/storefront/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tags/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tags/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
