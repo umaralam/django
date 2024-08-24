@@ -5,15 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0967932-90c1-4b07-83a7-cffe660a74af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/store/filters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/migrations/0007_alter_orderitem_product_alter_product_collection_and_more.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/store/pagination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/migrations/0008_alter_cart_id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/migrations/0009_alter_cartitem_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/migrations/0010_alter_cartitem_unique_together.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/acd89004-021b-41c5-95f1-f5d010f75316.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/acd89004-021b-41c5-95f1-f5d010f75316.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likes/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/likes/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/store/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/store/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/store_custom/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store_custom/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store_custom/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store_custom/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store_custom/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store_custom/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/store_custom/views.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/storefront/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/storefront/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,22 +46,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "database.data.extractors.current.export.id": "Where Clause",
-    "database.data.extractors.current.id": "Where Clause",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/alam"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Where Clause&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;Where Clause&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alam&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
